@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/you-pip-tqm/YouPIP-TQM.ipa</string>
+					<string>https://tqm-ios.github.io/ipa/Messenger3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ipa.github.io/icon/yt.png</string>
+					<string>http://tqm-ipa.github.io/icon/mes.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.google.ios.youtube</string>
+				<string>com.tqm.messenger2</string>
 				<key>bundle-version</key>
-				<string>17.32.2</string>
+				<string>386.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>YouPIP TQM</string>
+				<string>Messenger2 TQM</string>
 			</dict>
 		</dict>
 	</array>
