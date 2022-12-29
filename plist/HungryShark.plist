@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ongcenh.github.io/icons/dangtai.png</string>
+					<string>http://tqm-ipa.github.io/icon/dangtai.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://quangminh388.github.io/icon/hungryshark.png</string>
+					<string>http://tqm-ipa.github.io/icon/hungryshark.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
