@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.BeautyPlus</string>
+				<string>com.tqm.callofduty</string>
 				<key>bundle-version</key>
-				<string>7.2.011</string>
+				<string>1.8.36</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://tqm-ios.github.io/ipa/Freya-TQM.ipa</string>
+					<string>https://tqm-ios.github.io/ipa/Fonts-TQM.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ipa.github.io/icon/freya.png</string>
+					<string>http://tqm-ipa.github.io/icon/dangtai.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.freya</string>
+				<string>com.tqm.myfonts</string>
 				<key>bundle-version</key>
-				<string>1.2.6</string>
+				<string>1.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>Freya TQM</string>
+				<string>My Fonts TQM</string>
 			</dict>
 		</dict>
 	</array>
