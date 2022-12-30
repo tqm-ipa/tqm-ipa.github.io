@@ -725,6 +725,15 @@
 
         {
             "isLanZouCloud": 0,
+            "name": "Viva Videos Premium",
+            "version": "9.7.5",
+            "iconURL": "https://tqm-ipa.github.io/js/img/vivavideo.png",
+            "downloadURL": "https://archive.org/download/viva-video-tqm/VivaVideo-TQM.ipa",
+            "versionDescription": "Viva Videos Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
             "name": "Lightroom",
             "version": "8.0.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/lr.png",

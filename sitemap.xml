@@ -86,6 +86,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/plist/vivavideo.plist</loc>
+   <lastmod>2022-12-30</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/plist/whatsapp3.plist</loc>
    <lastmod>2022-12-29</lastmod>
    <changefreq>weekly</changefreq>
@@ -507,7 +512,7 @@
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/index.html</loc>
-   <lastmod>2022-12-29</lastmod>
+   <lastmod>2022-12-30</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -526,53 +531,38 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/framework7.bundle.min.js</loc>
+   <loc>https://tqm-ipa.github.io/Tab/js/qrcode.min.js</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/routes.js</loc>
+   <loc>https://tqm-ipa.github.io/Tab/js/css/sign.css</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/sign/qrcode.min.js</loc>
+   <loc>https://tqm-ipa.github.io/Tab/js/css/app.css</loc>
+   <lastmod>2022-12-30</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/Tab/js/index.js</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/sign/css/sign.css</loc>
+   <loc>https://tqm-ipa.github.io/Tab/js/vue.min.js</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/sign/css/app.css</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/sign/index.js</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/sign/vue.min.js</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/sign/axios.min.js</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/Tab/js/app.js</loc>
+   <loc>https://tqm-ipa.github.io/Tab/js/axios.min.js</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/Tab/Sign.html</loc>
-   <lastmod>2022-12-28</lastmod>
+   <lastmod>2022-12-30</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1141,6 +1131,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/js/img/vivavideo.png</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/js/img/duty.png</loc>
    <lastmod>2022-12-16</lastmod>
    <changefreq>weekly</changefreq>
@@ -1177,7 +1172,7 @@
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/gbox.json</loc>
-   <lastmod>2022-12-28</lastmod>
+   <lastmod>2022-12-30</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -7537,7 +7532,7 @@
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/sitemap.xml</loc>
-   <lastmod>2022-12-29</lastmod>
+   <lastmod>2022-12-30</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -8033,6 +8028,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/icon/cheyote.png</loc>
    <lastmod>2022-09-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/icon/vivavideo.png</loc>
+   <lastmod>2022-12-29</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -10961,6 +10961,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/e2/f66be9b45de5e2a31b0fed538f6c9888496cb2</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/e2/2685f81a42b4d56041f1f748aa3dee2c962eca</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -11671,6 +11676,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/fe/12049967528b3d2c84a5aed801cce0fbb677de</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/fe/d70759fbfe92e7d02ac69c7dd0007f39e3fac5</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -11918,6 +11928,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/ec/6e68069c01acf5ff0d714e447a0b1d1f31a00f</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/ec/2a859fd5639d81a3316401a0ff4c629439358a</loc>
+   <lastmod>2022-12-29</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -12916,6 +12931,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/7b/04b0eeb496982650a3579ca8dc752ef75b5ab8</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/7b/17a239d4f7ba4b697e5bf5ac3b394c1c1c8a75</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -13611,6 +13631,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/9f/a2a7847d9b3ab4d1a9fdd1865865004838bf0c</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/9f/a5d25d4ad0db0f734420c914d1622b66595015</loc>
    <lastmod>2022-10-05</lastmod>
    <changefreq>weekly</changefreq>
@@ -13843,6 +13868,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/6e/cc31b4b7f4a44550bf1ec50d1ff0e048c995ac</loc>
    <lastmod>2022-10-09</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/6e/169140518a26d6a24c9fdf6786395aa419fb57</loc>
+   <lastmod>2022-12-29</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -15741,6 +15771,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/b7/9b133760cc3e3ac77faa1434337d5aaf13a98d</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/db/ab6c33c686976c50a0d8a1754b440827e40302</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16381,6 +16416,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/cd/d29dd0e9507ce038f78caf2b675d7b6aa83d23</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/cc/14834719d4edaec11f8e0f9e2edcc734edcb00</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16496,6 +16536,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/f0/effdb136d2d1b0ec17240258572ea714bb0790</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/f0/d140607f11b0c3b774944b35b62849a5ef93ae</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16508,6 +16553,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/f0/be4ba56c7de86cb33193b166c82c0d1ae500fe</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/f7/ab397cf468ce94d74573d8f72b9f58c968af54</loc>
+   <lastmod>2022-12-29</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -18101,6 +18151,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/76/2e7a9f82e503f2ce549cf351758ba333cfffa4</loc>
+   <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/76/b07594eee9b85e1452af9658bf3588b726b785</loc>
    <lastmod>2022-12-18</lastmod>
    <changefreq>weekly</changefreq>
@@ -18877,7 +18932,7 @@
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/esign.json</loc>
-   <lastmod>2022-12-28</lastmod>
+   <lastmod>2022-12-30</lastmod>
    <changefreq>weekly</changefreq>
   </url>
  </urlset>

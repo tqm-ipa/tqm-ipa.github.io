@@ -813,6 +813,16 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "Viva Video Premium",
+            "appVersion": "9.7.5",
+            "appImage": "https://tqm-ipa.github.io/js/img/vivavideo.png",
+            "appPackage": "https://archive.org/download/viva-video-tqm/VivaVideo-TQM.ipa",
+            "appDescription": "Viva Video Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Lightroom",
             "appVersion": "8.0.0",
             "appImage": "https://tqm-ipa.github.io/js/img/lr.png",
