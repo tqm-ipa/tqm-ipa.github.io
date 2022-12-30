@@ -266,6 +266,15 @@
 
         {
             "isLanZouCloud": 0,
+            "name": "My Fonts",
+            "version": "1.5",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dangtai.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Fonts-TQM.ipa",
+            "versionDescription": "Fonts For ios14.0-16.1 | 64bit"
+        },
+
+        {
+            "isLanZouCloud": 0,
             "name": "ScreenshotX",
             "version": "1.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/ScreenshotX.png",
@@ -946,6 +955,15 @@
             "iconURL": "https://tqm-ipa.github.io/js/img/dls22.png",
             "downloadURL": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
             "versionDescription": "DLS22 Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "DLS23",
+            "version": "10.060",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dls23.png",
+            "downloadURL": "https://archive.org/download/dls-23-tqm/DLS23-TQM.ipa",
+            "versionDescription": "DLS23 Hack ios10 Trở nên | All Devices"
         },
 
         {
