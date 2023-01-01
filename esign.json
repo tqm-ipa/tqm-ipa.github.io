@@ -698,6 +698,24 @@
 
         {
             "isLanZouCloud": 0,
+            "name": "PhotoLab Premium",
+            "version": "3.11.14",
+            "iconURL": "https://tqm-ipa.github.io/js/img/photolab.png",
+            "downloadURL": "https://archive.org/download/photo-lab-tqm/Photo%20Lab-TQM.ipa",
+            "versionDescription": "PhotoLab Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Terbox Premium",
+            "version": "3.6.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/terbox.png",
+            "downloadURL": "https://archive.org/download/tera-box-tqm/TeraBox-TQM.ipa",
+            "versionDescription": "Terbox Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
             "name": "Intolive Pro",
             "version": "3.3.3",
             "iconURL": "https://tqm-ipa.github.io/js/img/intolivepro.png",
@@ -712,6 +730,15 @@
             "iconURL": "https://tqm-ipa.github.io/js/img/kinesmaster.png",
             "downloadURL": "https://tqm-ios.github.io/ipa/kinesmaster-TQM.ipa",
             "versionDescription": "KineMaster Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Capcut Premium",
+            "version": "7.4.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/capcut.png",
+            "downloadURL": "https://archive.org/download/cap-cut-tqm/CapCut-TQM.ipa",
+            "versionDescription": "Capcut Premium For ios10 Trở nên | All Devices"
         },
 
         {
@@ -780,7 +807,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Subway Surfers",
-            "version": "2.35.0",
+            "version": "3.5.0",
             "iconURL": "https://tqm-ipa.github.io/js/img/subwaysurfers.png",
             "downloadURL": "https://archive.org/download/subway-surf-tqm/SubwaySurf-TQM.ipa",
             "versionDescription": "Subway Surfers For ios11 Trở nên | All Devices"
@@ -870,7 +897,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Clash of Clan",
-            "version": "15.0.2",
+            "version": "15.83.19",
             "iconURL": "https://tqm-ipa.github.io/js/img/clash.png",
             "downloadURL": "https://archive.org/download/clash-TQM/clash-TQM.ipa",
             "versionDescription": "Clash of Clan For ios11 Trở nên | All Devices"
@@ -946,6 +973,15 @@
             "iconURL": "https://tqm-ipa.github.io/js/img/home.png",
             "downloadURL": "https://archive.org/download/homescapes-tqm/Homescapes-TQM.ipa",
             "versionDescription": "Homescapes ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "DLS19",
+            "version": "6.06",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dls19.png",
+            "downloadURL": "https://archive.org/download/dream-league-tqm/DreamLeague-TQM.ipa",
+            "versionDescription": "DLS19 Hack ios10 Trở nên | All Devices"
         },
 
         {

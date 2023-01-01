@@ -753,6 +753,16 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "Terbox Premium",
+            "appVersion": "3.6.0",
+            "appImage": "https://tqm-ipa.github.io/js/img/terbox.png",
+            "appPackage": "https://archive.org/download/tera-box-tqm/TeraBox-TQM.ipa",
+            "appDescription": "Terbox Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Ulike Premium",
             "appVersion": "2.9.7",
             "appImage": "https://tqm-ipa.github.io/js/img/ulike.png",
@@ -823,11 +833,31 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "PhotoLab Premium",
+            "appVersion": "3.11.14",
+            "appImage": "https://tqm-ipa.github.io/js/img/photolab.png",
+            "appPackage": "https://archive.org/download/photo-lab-tqm/Photo%20Lab-TQM.ipa",
+            "appDescription": "PhotoLab Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Viva Video Premium",
             "appVersion": "9.7.5",
             "appImage": "https://tqm-ipa.github.io/js/img/vivavideo.png",
             "appPackage": "https://archive.org/download/viva-video-tqm/VivaVideo-TQM.ipa",
             "appDescription": "Viva Video Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Capcut Premium",
+            "appVersion": "7.4.0",
+            "appImage": "https://tqm-ipa.github.io/js/img/capcut.png",
+            "appPackage": "https://archive.org/download/cap-cut-tqm/CapCut-TQM.ipa",
+            "appDescription": "Capcut Premium For ios10 Trở nên | All Devices"
         },
 
         {
@@ -1063,6 +1093,16 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "DLS19",
+            "appVersion": "6.06",
+            "appImage": "https://tqm-ipa.github.io/js/img/dls19.png",
+            "appPackage": "https://archive.org/download/dream-league-tqm/DreamLeague-TQM.ipa",
+            "appDescription": "DLS19 Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "DLS22",
             "appVersion": "9.14",
             "appImage": "https://tqm-ipa.github.io/js/img/dls22.png",
@@ -1124,7 +1164,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "The Spike",
-            "appVersion": "1.1.2",
+            "appVersion": "2.2.2",
             "appImage": "https://tqm-ipa.github.io/js/img/thespike.png",
             "appPackage": "https://archive.org/download/the-spike-tqm/TheSpike-TQM.ipa",
             "appDescription": "The Spike ios10 Trở nên | All Devices"
