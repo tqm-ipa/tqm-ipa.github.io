@@ -547,7 +547,7 @@
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/index.html</loc>
-   <lastmod>2023-01-01</lastmod>
+   <lastmod>2023-01-02</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -612,7 +612,7 @@
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/Tab/IPA.html</loc>
-   <lastmod>2023-01-01</lastmod>
+   <lastmod>2023-01-02</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1171,6 +1171,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/js/img/xina.png</loc>
+   <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/js/img/subwaysurfers.png</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
@@ -1183,11 +1188,6 @@
   <url>
    <loc>https://tqm-ipa.github.io/js/img/dls22.png</loc>
    <lastmod>2022-10-10</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/js/img/cheyote.png</loc>
-   <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -7592,7 +7592,7 @@
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/sitemap.xml</loc>
-   <lastmod>2023-01-01</lastmod>
+   <lastmod>2023-01-02</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -8091,6 +8091,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/icon/xina.png</loc>
+   <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/icon/subwaysurfers.png</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
@@ -8103,11 +8108,6 @@
   <url>
    <loc>https://tqm-ipa.github.io/icon/dls22.png</loc>
    <lastmod>2022-10-10</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/icon/cheyote.png</loc>
-   <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -8578,6 +8578,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/50/29de735f78c8838b8f5a555230597c64131898</loc>
    <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/50/987f1e94a4bc2dca35ca7695a4573affb6b2b9</loc>
+   <lastmod>2023-01-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -9318,6 +9323,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/3d/55650ea81ec4b92c7e15ff17fd5971af848241</loc>
    <lastmod>2022-11-10</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/3d/e43515775f57816eff3fd5cc2a6816f106f1aa</loc>
+   <lastmod>2023-01-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -10296,6 +10306,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/ad/29bee09034bf7ed357f746278e88225dffc894</loc>
+   <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/ad/7d911f4e1bfef6ff3fb337e798030497c64965</loc>
    <lastmod>2022-11-09</lastmod>
    <changefreq>weekly</changefreq>
@@ -10936,6 +10951,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/bc/1d74560c146f8016db75044506782637d10c37</loc>
+   <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/bc/d8898c80f120b5d11d94cc9d6342375c9d375e</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -11443,6 +11463,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/c9/c9b420ed3077ba84529913ef7263c3c72d83e9</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/c9/72f7374801c0282fe359635a252797cd3f11db</loc>
+   <lastmod>2023-01-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -12123,6 +12148,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/c6/6ce950ab238bb276c7675204b15be36893a77a</loc>
    <lastmod>2022-10-27</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/c6/d66fd9ab7c25ea0010617e45dabdb1e277b086</loc>
+   <lastmod>2023-01-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -13141,6 +13171,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/28/fa4db082e4387bdb78837f4ad9ac811e249dd2</loc>
+   <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/28/656e5107fedf45516d6e9ad5a263d543071370</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -13368,6 +13403,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/7e/ef2d946f7532a29771280bd9f2d438c465111b</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/7e/edce441c58b69b579509fd07335a595ddb3b1f</loc>
+   <lastmod>2023-01-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16051,6 +16091,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/aa/16a1c57099f68d30178010046148f9f3be6dac</loc>
+   <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/aa/fa7b539850a72c0f1ae51aa729d9775562e92c</loc>
    <lastmod>2022-10-13</lastmod>
    <changefreq>weekly</changefreq>
@@ -17183,6 +17228,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/c5/7b935d11318adff87a121fc317f0d0f84cca95</loc>
    <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/c5/a2f2bdbe0b251bded58e9578c44c439a765312</loc>
+   <lastmod>2023-01-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>

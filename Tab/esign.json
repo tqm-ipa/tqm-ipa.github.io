@@ -149,11 +149,11 @@
 
         {
             "isLanZouCloud": 0,
-            "name": "Cheyote",
-            "version": "1.0",
-            "iconURL": "https://tqm-ipa.github.io/js/img/cheyote.png",
-            "downloadURL": "https://tqm-ios.github.io/ipa/Cheyote-TQM.ipa",
-            "versionDescription": "jailbreak For ios15.0-15.1.1 | A11 - A14"
+            "name": "XinaA15",
+            "version": "1.1.3.6",
+            "iconURL": "https://tqm-ipa.github.io/js/img/xina.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/XinaA15-TQM.ipa",
+            "versionDescription": "jailbreak For ios15.0-15.1.1 | A12 - A15M1"
         },
 
         {

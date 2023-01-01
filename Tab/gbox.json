@@ -173,11 +173,11 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Cheyote",
-            "appVersion": "1.0",
-            "appImage": "https://tqm-ipa.github.io/js/img/cheyote.png",
-            "appPackage": "https://tqm-ios.github.io/ipa/Cheyote-TQM.ipa",
-            "appDescription": "jailbreak For ios15.0-15.1.1 | A11 - A14"
+            "appName": "XinaA15",
+            "appVersion": "1.1.3.6",
+            "appImage": "https://tqm-ipa.github.io/js/img/xina.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/XinaA15-TQM.ipa",
+            "appDescription": "jailbreak For ios15.0-15.1.1 | A12 - A15M1"
         },
 
         {
