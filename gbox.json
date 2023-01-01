@@ -753,11 +753,11 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Terbox Premium",
+            "appName": "Terabox Premium",
             "appVersion": "3.6.0",
             "appImage": "https://tqm-ipa.github.io/js/img/terbox.png",
             "appPackage": "https://archive.org/download/tera-box-tqm/TeraBox-TQM.ipa",
-            "appDescription": "Terbox Premium For ios10 Trở nên | All Devices"
+            "appDescription": "Terabox Premium For ios10 Trở nên | All Devices"
         },
 
         {
