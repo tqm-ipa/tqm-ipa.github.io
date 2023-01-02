@@ -213,7 +213,7 @@
         {
             "isLanZouCloud": 0,
             "name": "Freya",
-            "version": "1.2.6",
+            "version": "1.2.7",
             "iconURL": "https://tqm-ipa.github.io/js/img/freya.png",
             "downloadURL": "https://tqm-ios.github.io/ipa/Freya-TQM.ipa",
             "versionDescription": "jailbreak For ios11.0-12.5.6 | All Devices"
@@ -267,10 +267,19 @@
         {
             "isLanZouCloud": 0,
             "name": "My Fonts",
-            "version": "1.5",
+            "version": "1.7",
             "iconURL": "https://tqm-ipa.github.io/js/img/dangtai.png",
             "downloadURL": "https://tqm-ios.github.io/ipa/Fonts-TQM.ipa",
-            "versionDescription": "Fonts For ios14.0-16.1 | 64bit"
+            "versionDescription": "Fonts For ios14.0-16.1.2 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "My Fonts 2",
+            "version": "1.8.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dangtai.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Fonts2-TQM.ipa",
+            "versionDescription": "Fonts For ios10.0-16.1.2 | All Devices"
         },
 
         {

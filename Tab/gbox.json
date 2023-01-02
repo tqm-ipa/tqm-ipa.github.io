@@ -244,7 +244,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Freya",
-            "appVersion": "1.2.6",
+            "appVersion": "1.2.7",
             "appImage": "https://tqm-ipa.github.io/js/img/freya.png",
             "appPackage": "https://tqm-ios.github.io/ipa/Freya-TQM.ipa",
             "appDescription": "jailbreak For ios11.0-12.5.6 | All Devices"
@@ -304,10 +304,20 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "My Fonts",
-            "appVersion": "1.5",
+            "appVersion": "1.7",
             "appImage": "https://tqm-ipa.github.io/js/img/dangtai.png",
             "appPackage": "https://tqm-ios.github.io/ipa/Fonts-TQM.ipa",
-            "appDescription": "Fonts For ios14.0-16.1 | 64bit"
+            "appDescription": "Fonts For ios14.0-16.1.2 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "My Fonts 2",
+            "appVersion": "1.8.0",
+            "appImage": "https://tqm-ipa.github.io/js/img/dangtai.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Fonts2-TQM.ipa",
+            "appDescription": "Fonts For ios10.0-16.1.2 | All Devices"
         },
 
         {
