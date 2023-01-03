@@ -2256,421 +2256,6 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/DEBIAN/control</loc>
-   <lastmod>2021-01-04</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/IconBundles/Icon.png</loc>
-   <lastmod>2020-02-14</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFCompactText-Regular.otf</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Semibold.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUITextCondensed-Light.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/TrebuchetMSBold.ttf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/GeorgiaItalic.ttf</loc>
-   <lastmod>2018-03-16</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/GeorgiaBold.ttf</loc>
-   <lastmod>2018-03-16</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/HelveticaNeue.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/KeycapsPad.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIText.ttf</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Ultralight.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUITextCondensed-Medium.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/HelveticaNeueInterface.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Thin.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/Helvetica.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFCompactDisplay-Regular.otf</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/HelveticaNeueLights.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFCompactText-Medium.otf</loc>
-   <lastmod>2018-03-16</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUITextCondensed-Regular.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUITextItalic.ttf</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplay.ttf</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUITextCondensed-Heavy.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Bold.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Black.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Regular.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/GeorgiaBoldItalic.ttf</loc>
-   <lastmod>2018-03-16</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Medium.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUI.ttf</loc>
-   <lastmod>2020-06-28</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Light.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/TrebuchetMS.ttf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIItalic.ttf</loc>
-   <lastmod>2020-06-28</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/HelveticaNeueExtras.ttc</loc>
-   <lastmod>2018-03-17</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/TrebuchetMSItalic.ttf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/Keycaps.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUITextCondensed-Semibold.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUITextCondensed-Bold.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/Georgia.ttf</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/SFUIDisplayCondensed-Heavy.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/ANEMFontsOverride/TrebuchetMSBoldItalic.ttf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 85/Info.plist</loc>
-   <lastmod>2018-03-14</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/IconBundles/Icon.png</loc>
-   <lastmod>2020-02-14</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Semibold.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUITextCondensed-Light.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/TrebuchetMSBold.ttf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/GeorgiaItalic.ttf</loc>
-   <lastmod>2018-03-16</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/GeorgiaBold.ttf</loc>
-   <lastmod>2018-03-16</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/HelveticaNeue.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/Avenir.ttc</loc>
-   <lastmod>2020-02-03</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/KeycapsPad.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFCompactDisplay.ttf</loc>
-   <lastmod>2020-02-03</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Ultralight.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUITextCondensed-Medium.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/ArialBoldItalic.ttf</loc>
-   <lastmod>2020-02-03</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/HelveticaNeueInterface.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Thin.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/Helvetica.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/HelveticaNeueLights.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUITextCondensed-Regular.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUITextCondensed-Heavy.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/Arial.ttf</loc>
-   <lastmod>2020-02-03</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Bold.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/ArialItalic.ttf</loc>
-   <lastmod>2020-02-03</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Black.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/PhoneKeyCaps.ttf</loc>
-   <lastmod>2020-02-03</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Regular.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/GeorgiaBoldItalic.ttf</loc>
-   <lastmod>2018-03-16</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/ArialBold.ttf</loc>
-   <lastmod>2020-02-03</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Medium.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUI.ttf</loc>
-   <lastmod>2020-06-28</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Light.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/TrebuchetMS.ttf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIItalic.ttf</loc>
-   <lastmod>2020-06-28</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/HelveticaNeueExtras.ttc</loc>
-   <lastmod>2018-03-17</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/TrebuchetMSItalic.ttf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/Keycaps.ttc</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUITextCondensed-Semibold.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUITextCondensed-Bold.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/ArialRoundedMTBold.ttf</loc>
-   <lastmod>2020-02-03</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/Georgia.ttf</loc>
-   <lastmod>2018-03-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/SFUIDisplayCondensed-Heavy.otf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/ANEMFontsOverride/TrebuchetMSBoldItalic.ttf</loc>
-   <lastmod>2020-06-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.Futura_1.1.1_iphoneos-arm/Library/Themes/Futura 100/Info.plist</loc>
-   <lastmod>2018-03-14</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
    <loc>https://tqm-ipa.github.io/DEB/com.ongcenh.realcc_1.0.2_iphoneos-arm.deb</loc>
    <lastmod>2022-09-18</lastmod>
    <changefreq>weekly</changefreq>
@@ -8626,6 +8211,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/61/80dd2c9384bc239c8dfe37c972777b7ed59a44</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/61/68b420892a52f0e178fdb6d2a5692a6a0f1abe</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
@@ -8883,6 +8473,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/66/4c9e25d1c890d73bc8876f417b27ba40830938</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/66/68400a4d56cc04aa2de36eb97523e0ef2615f5</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -9151,6 +8746,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/3b/5813e2fd077059f128e63f6d1beeb9b1db0d8b</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/3b/975df06a2aac3d79ec8b32b0d049007913e7df</loc>
    <lastmod>2022-10-05</lastmod>
    <changefreq>weekly</changefreq>
@@ -9221,6 +8821,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/6f/2f99c9a382129326b940a256cfe34ccd8c14e7</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/03/dd689eafeff2df77ac6f76ef67994cc7a8acb8</loc>
    <lastmod>2022-10-10</lastmod>
    <changefreq>weekly</changefreq>
@@ -9287,6 +8892,11 @@
   </url>
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/9b/07aeedbb00535e1d6a45f6cd6f765253d63da9</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/9b/ef965a57eb636cdb4c4c07d54cd449071adee6</loc>
    <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -9881,6 +9491,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/67/d15055bb1ba3bae5df10d3c1545d097ee3513b</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/67/0db822101d6ffb88f54a079140abb9b8658e11</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -10116,6 +9731,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/0e/752b5df4084b8b3dfec4c7a189639981da2d5d</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/0e/e83d843f982ceadc1ede8c3b8daf101a367ede</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -10266,6 +9886,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/5f/93bf6a3407aa9cf094a5624d0958883509b1d5</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/33/a946fb07393bdfe2210b9d392fd8c95186df3a</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -10401,6 +10026,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/9c/0df6ef6cd04a22a740ab21749649151826ab16</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/9c/def042e168a8cd54baae7f8d699437e993a637</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -10468,6 +10098,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/02/edfb99d3fa083ac21786df8cf5fd6af8afceb1</loc>
    <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/02/d8e85756fbbd86d89a2c950467f78ff607470d</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -10901,6 +10536,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/d0/0fb8d022de8a410104ae41ab7297a19cf725b7</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/d0/084b0368558f4c68605aea444dff1ae448b319</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -10923,6 +10563,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/d0/d2df18a04d6d3f5a1c04b82d2948d17afa8e0e</loc>
    <lastmod>2022-12-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/d0/e381fab9b2839e1f8419372cd200a2ea71991a</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -11128,6 +10773,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/b4/7959e1037ea026ff41ed2c439e38aea6a06e1a</loc>
    <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/b4/734d9d33ff1f95167b3a9f467be1e5b3d7d72a</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -11701,6 +11351,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/f4/d24a7270a57565bea4f839da936f1c471011bd</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/f4/ea2aa6ae4dafe4751d94d2db9e9eb11214c6a5</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -11903,6 +11558,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/ee/c80628acb77e395a1d7aeae9a5c6cc9396d3c1</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/ee/4aac44b121805456b3325680007fc853243f38</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -12176,6 +11836,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/f5/9020bd53a452019148be17104d456b3ad33d9d</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/f5/cbfd4f42e2ea3a5f1255023cef23c8bf192692</loc>
    <lastmod>2022-12-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -12273,6 +11938,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/cf/8e2ea6089965ee8a837a77b5ed7da173eb6a2a</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/cf/4d9ae0113c5baed462fcd21ca09126a1979b67</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -12466,6 +12136,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/c8/8f8e9324f37a923b0f401c6a11d7612be21ce7</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/c8/b02a099622aac6a128047a8d0a8528425206da</loc>
    <lastmod>2022-10-09</lastmod>
    <changefreq>weekly</changefreq>
@@ -12473,6 +12148,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/fb/68ad759d733d77d47b35745b549187242461d4</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/fb/6d8b3e92f28ec4b3bd15c193f1e770d129ed88</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -12566,6 +12246,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/c1/98ea5aeeeec5476e304e11c05e58bb76f84c09</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/c1/eb40fc5707d7644bd4e32ab400b2d8c8ed59b8</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -12613,6 +12298,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/c6/efbb7ca98540f12026e2c35172c26122bf40e9</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/c6/c3bdeb15d71f243ed12d22dca40d85202e6c87</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -12693,6 +12383,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/ec/acc2cbf51a446484eb091529d5f74bfbc533fb</loc>
    <lastmod>2022-12-31</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/4e/5b73d99dc064bfeabb8695aa06f9a78e6818ec</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -12878,6 +12573,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/27/fb1ef0a48234b4a55f3fc69a18f32f0b45f8e4</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/27/abfe8a260420c5db71d347a590aa281b109acb</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -13151,6 +12851,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/7c/2db055fb2742671d683344c8d49a34ce18d1e8</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/7c/32dc7064a9aa68fd774ca736098dfe3e4f05a7</loc>
    <lastmod>2022-12-18</lastmod>
    <changefreq>weekly</changefreq>
@@ -13238,6 +12943,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/42/ea23bdbcfa817a8913e4b4a24cce9dc0f3bf3f</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/42/ea7297a8b438d3283067be14439b977588f540</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -13671,6 +13381,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/28/fa238a07c4ca3d4b6e9807ebed589e99e5fb3f</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/28/fa4db082e4387bdb78837f4ad9ac811e249dd2</loc>
    <lastmod>2023-01-01</lastmod>
    <changefreq>weekly</changefreq>
@@ -13916,6 +13631,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/7e/c7d6f6023270843f6aba2bad9bd31c31d78f79</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/7e/8959c362c07042d925684e482ae56771940fea</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -13931,6 +13651,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/10/30bee70011a350ef0a91c2a71b5acf985ed509</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/10/26d6d92d2dbfabc84e7f6a2498bef04e8f8427</loc>
    <lastmod>2022-10-12</lastmod>
    <changefreq>weekly</changefreq>
@@ -13943,6 +13668,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/19/334814907b394c6f54891bd19a57c823666848</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/19/494fb928e17b7559e2e3cdb06a4b11f73c7a84</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -14141,6 +13871,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/4d/1c9b4f4130107d459e1a97c13dd577eef8ce30</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/4d/8abc2cae92c2955aba72d8af6fd4e9e67a8b5e</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -14168,6 +13903,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/4d/fa92885f81324949ab2e2d856992d129d56a43</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/75/c164440f71cf2120eb990df6c12ca6ee446149</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -14303,6 +14043,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/86/22a8d48ccc10f198c56d39c4200767d329cd97</loc>
    <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/86/db86de5ef796119b44150cbc929b537dac3d06</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -14776,6 +14521,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/36/f113d2433c46321cffdec4c5080b284eae7fd8</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/36/b4446d45c4d3f3ecb835b531d13ee9ed9746af</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -14828,6 +14578,16 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/5c/5c3ecb073448399ee84eb09f4b2ce132bb972c</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/5c/a2a2ab94d6706388d1ea462195b63038c343f7</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/09/a0fa1e44f2d10314d681406f375580df384a8c</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -15471,8 +15231,28 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/5b/d56e9798171fa10de9cae14529373991ffdb70</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/5b/49320289ccb53ab18b446c4a7bbdcb3b9cece7</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/37/359ead83b54e8b14ea31140b08faa843e36435</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/37/03374d7b0b69aca3b3c0b5ccc1145363e8eab3</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/37/8a6d3a70c5cae43aa5061ceb012095300aa2a5</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -15483,6 +15263,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/37/3778e4daf5d904e7b75a7c1d71b5f9245e1e66</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/37/767be22d5cd7a3708032256244994359f9e118</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -15741,6 +15526,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/6c/06d3c5d0971fbf33a3c9e22a9cb38c674cef38</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/6c/e8e9b6130b915b044f99dfc2cbe972e0a26418</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
@@ -15796,6 +15586,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/99/b8389e08fef8bb682a5a787ca4130058e35206</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/99/981cb408aca83df1f90781614c77fce82391f1</loc>
    <lastmod>2022-12-13</lastmod>
    <changefreq>weekly</changefreq>
@@ -15823,6 +15618,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/52/e072ccc94b6c2a9c2a0f4cb9d9126242abfc97</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/52/d1a6fcec0527dfe09a2f52320d709469c4dbd2</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -15911,6 +15711,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/63/a057a27723ac9cbae204c4eb64cf177be2864b</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/63/8bde49240a9ce8a7e47f498d0440ac2bed2cfa</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -15933,6 +15738,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/63/88e47a7bbb7dcabdc5ee2e2f79804a8a9c7c4d</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/63/33168ab609fd1dacfe7fe2587e6d438e78f42a</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16026,6 +15836,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/0a/24d3b851ec48b488ed67945571b51c982ef2ce</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/0a/3c353940d768a3d3a0265768358e0b4803dbbc</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16098,6 +15913,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/90/495f03758014d164fd5eb55e68732bbc6fca99</loc>
    <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/90/daf7b43554dfa7b3f078693c8383032cbb4adf</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16636,6 +16456,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/d2/525e23369e34f0d872c0e4a0ec2bf3db60d493</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/d2/0d61dfbc57283d362856f5718d6551cf2d4abc</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16698,6 +16523,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/aa/0269bfc43b0351110b79a5c1038a5672df9bdd</loc>
    <lastmod>2022-10-06</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/aa/258e2962a5de5f2ca6282a52e6c6f02b095d10</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16771,6 +16601,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/b7/ea19d1d57672fbaab15ee49aeba4902caf249b</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/b7/428df3a9b19c4ceec9326d47c0d94182a555b6</loc>
    <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
@@ -16798,6 +16633,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/db/ab6c33c686976c50a0d8a1754b440827e40302</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/db/1ccb179c71cb057fed47496adb94cd7efb358b</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16843,6 +16683,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/a8/b889492daf999d8a954ccd595c1ecfcc17b706</loc>
    <lastmod>2022-10-27</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/a8/93c2d261ea3bda4ce3247dca17afb46992a72d</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16956,6 +16801,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/b0/71136e85564f34921c1c30846bdb5669f19010</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/b0/a74cda2f22938153023031209c7566e82196c4</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -16991,6 +16841,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/a6/bac18a4f10648cb26b709041d3574f800ed845</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/a6/10f229ddd08e10918479f6344e0032cb386a30</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -17023,6 +16878,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/b9/cb553217553317ccb723c9f492b46ef78a9fee</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/b9/b9a1af8255e102f95fad4ebb391521fa94d775</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -17123,6 +16983,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/a1/2c527177b112a4e0c31d11a7e73a4916d0fc2a</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/a1/133b9f5361ab805f42f447dcfa6ba28fb7d7d7</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -17291,6 +17156,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/c4/dc5924815c17521087e72d883f1e41e5580953</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/c4/c722d344ff8842ff79a442538dacc44e81d7f2</loc>
    <lastmod>2022-10-27</lastmod>
    <changefreq>weekly</changefreq>
@@ -17308,6 +17178,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/ea/4a3d44c9eb7b05af4c460954750ace1d6d3afb</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/ea/5b8524e0befe9c9651b0f07e4eb2dbd1576e75</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -17668,6 +17543,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/e8/39f75ceabead67a3071306e30667b7cddf593f</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/e8/f2a1175b93a389777b2c86b8e3905c3cbd72fd</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -18276,6 +18156,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/46/821db7788bbe2ab7f52c98f10b1346a0ce02ff</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/46/3eafa31b771c84ec4c4ae660095e2fb7f63718</loc>
    <lastmod>2022-12-29</lastmod>
    <changefreq>weekly</changefreq>
@@ -18288,6 +18173,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/46/17f4feeb9df353de6bfaeb16d5200d46422e7c</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/46/3582cda78868483f89b89d87645b4f50d79b0b</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -18701,6 +18591,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/70/5aaea1b565a57e3e9cfdc2403075841fe8ab70</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/70/30c14c5cabf2a3221e5f5626281af16878b4fe</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -18823,6 +18718,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/84/92ef0f420a45496e95b87121207ed94ef20df9</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/84/e4da868395e4ce65a658b317d7c47ce3627c8b</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -19096,6 +18996,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/12/2df8d04f9f1e2b989fc560820007f05859fc57</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/8c/dad1665fc3dceafa90f53a3d7ebc81a7786707</loc>
    <lastmod>2022-10-07</lastmod>
    <changefreq>weekly</changefreq>
@@ -19256,6 +19161,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/76/54c3c3a7cbd46d2017ac0c186e53aed73ddc2e</loc>
+   <lastmod>2023-01-03</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ipa.github.io/.git/objects/76/8a88327e838134784bf92ced1e97e3b7070055</loc>
    <lastmod>2022-11-09</lastmod>
    <changefreq>weekly</changefreq>
@@ -19323,6 +19233,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/1c/f1fda605acf16b5b7ae6c262be19b66f7cf329</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/1c/efe5c3f44b95082fc497b426bdff5bf5705a29</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -19693,6 +19608,11 @@
   <url>
    <loc>https://tqm-ipa.github.io/.git/objects/8b/5b8dbeb4720bc713545de72fa520d6c6f35c24</loc>
    <lastmod>2022-10-07</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ipa.github.io/.git/objects/8b/6f570127404720d130fa10703cd982c4c847fa</loc>
+   <lastmod>2023-01-03</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
